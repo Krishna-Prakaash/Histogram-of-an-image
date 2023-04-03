@@ -140,27 +140,27 @@ plt.show()
 # Output:
 GRAY IMAGE
 Input Grayscale Image
-![OUTPUT-01](OP-1.PNG)
+![OUTPUT-01](OP-01.PNG)
 
 ## Histogram of Grayscale Image
-![OUTPUT-02](OP-2.PNG)
+![OUTPUT-02](OP-02.PNG)
 
 ## Histogram Equalized Grayscale Image
-![OUTPUT-03](OP-3.PNG)
+![OUTPUT-03](OP-03.PNG)
 
 ## Equalized histogram of Grayscale Image
-![OUTPUT-04](OP-4.PNG)
+![OUTPUT-04](OP-04.PNG)
 
 # COLORIMAGE
 ## Input color Image
-![OUTPUT-05](OP-5.PNG)
+![OUTPUT-05](OP-05.PNG)
 
 ## Histogram of different channels of color image
-![OUTPUT-06](OP-6.PNG)
+![OUTPUT-06](OP-06.PNG)
 
-![OUTPUT-07](OP-7.PNG)
+![OUTPUT-07](OP-07.PNG)
 
-![OUTPUT-08](OP-8.PNG)
+![OUTPUT-08](OP-08.PNG)
 
 
 
