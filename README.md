@@ -139,6 +139,7 @@ plt.show()
 
 # Output:
 GRAY IMAGE
+
 Input Grayscale Image
 ![OUTPUT-01](OP-01.PNG)
 
