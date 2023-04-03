@@ -20,11 +20,11 @@ Equalize the grayscale image.
 
 ## Program:
 ```
-
 # Developed By: KRISHNA PRAKAASH D M
 # Register Number:212221230052
 ```
-````
+
+```
 # FOR GRAY IMAGE
 ## code to read and show the input image
 import cv2
